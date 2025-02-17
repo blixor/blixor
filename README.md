@@ -1,6 +1,6 @@
 # 👋 Welcome to my github page! <br />
 
-I am a diligent software engineer and avid open source developer with over 10 years of experience. <br /> I am focused on building innovative and cutting-edge business solutions for clients around the world. <br /> Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.
+I’m a results-driven software engineer with over 10 years of experience crafting innovative solutions. <br /> My expertise lies in designing scalable and secure systems for clients worldwide. <br /> While many of my projects are confidential, you can check out my open-source contributions in the public repositories.
 
 
 
