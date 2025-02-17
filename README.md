@@ -7,7 +7,7 @@ I am a diligent software engineer and avid open source developer with over 10 ye
 ## Favorite Saying 👍
 
 ```rust
-/// Texora's motto
+/// Blixor's motto
 struct LinusTorvalds;
 
 impl LinusTorvalds {
