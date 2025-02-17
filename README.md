@@ -2,29 +2,6 @@
 
 I’m a results-driven software engineer with over 7 years of experience crafting innovative solutions. <br /> My expertise lies in designing scalable and secure systems for clients worldwide. <br /> While many of my projects are confidential, you can check out my open-source contributions in the public repositories.
 
-
-
-## Favorite Saying 👍
-
-```rust
-/// Blixor's motto
-struct LinusTorvalds;
-
-impl LinusTorvalds {
-  /// Return Linus Torvalds quote
-  fn said(&self) -> &str {
-    "Most good programmers do programming not because they expect to get paid /
-     or get adulation by the public, but because it is fun to program."
-  }
-}
-
-fn main() {
-  let linus_torvalds = LinusTorvalds;
-
-  println!("Linus Torvalds - {}", linus_torvalds.said());
-}
-```
-
 ## ⚡ My Skills
 <br />
 
