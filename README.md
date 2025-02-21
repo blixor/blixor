@@ -2,7 +2,8 @@
 
 I’m a results-driven software engineer with over 8 years of experience crafting innovative solutions. <br /> My expertise lies in designing scalable and secure systems for clients worldwide. <br /> While many of my projects are confidential, you can check out my open-source contributions in the public repositories.
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)  <img align="right" src="https://img.shields.io/github/followers/blixor?label=Follow&style=social" />
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=blixor.visitor-badge)  
+<img align="right" src="https://img.shields.io/github/followers/blixor?label=Follow&style=social" />
 
 ## ⚡ My Skills
 <br />
