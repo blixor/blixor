@@ -49,10 +49,11 @@ I’m a results-driven software engineer with over 8 years of experience craftin
             <br>Rust
           </td>
         <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
-          <br>Python
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+            <br>Python
+        </td>          <br>Python
         <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=c#" width="45" height="45" alt="C#" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
             <br>C#
         </td>
         <td align="center" width="90">
