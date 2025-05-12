@@ -51,9 +51,9 @@ I’m a results-driven software engineer with over 8 years of experience craftin
         <td align="center" width="90">
             <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
             <br>Python
-        </td>          <br>Python
+        </td>     
         <td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
             <br>C#
         </td>
         <td align="center" width="90">
