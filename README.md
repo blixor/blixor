@@ -42,6 +42,10 @@ I’m a results-driven software engineer with over 8 years of experience craftin
         <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
         <br>Three.js
       </td>
+      <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
+          <br>WordPress
+      </td>
     </tr>
     <tr>
     <td align="center" width="90">
@@ -75,10 +79,6 @@ I’m a results-driven software engineer with over 8 years of experience craftin
         <td align="center" width="90">
           <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
           <br>Laravel
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
-          <br>WordPress
         </td>
          <td align="center" width="90">
         <img align="left alt="GraphQL" width="42px" src="https://static-00.iconduck.com/assets.00/graphql-icon-455x512-ta4hbnli.png"/>
