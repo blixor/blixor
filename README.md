@@ -18,7 +18,6 @@ I’m a results-driven software engineer with over 8 years of experience craftin
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="45" height="45" />
         <br>Typescript
       </td>
-
       <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
         <br>React
@@ -69,7 +68,6 @@ I’m a results-driven software engineer with over 8 years of experience craftin
             <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="php" />
             <br>Go
         </td>
-
         <td align="center" width="90">
           <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
           <br>Django
@@ -82,7 +80,7 @@ I’m a results-driven software engineer with over 8 years of experience craftin
           <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
           <br>WordPress
         </td>
- <td align="center" width="90">
+         <td align="center" width="90">
         <img align="left alt="GraphQL" width="42px" src="https://static-00.iconduck.com/assets.00/graphql-icon-455x512-ta4hbnli.png"/>
         <br>GraphQL
       </td>
