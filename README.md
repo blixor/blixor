@@ -1,4 +1,4 @@
-# 👋 Welcome to my github page! <br />
+![image](https://github.com/user-attachments/assets/2b183a18-9df3-41e4-930c-75b241bbfa6b)# 👋 Welcome to my github page! <br />
 
 I’m a results-driven software engineer with over 8 years of experience crafting innovative solutions. <br /> My expertise lies in designing scalable and secure systems for clients worldwide. <br /> While many of my projects are confidential, you can check out my open-source contributions in the public repositories.
 
@@ -18,6 +18,7 @@ I’m a results-driven software engineer with over 8 years of experience craftin
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="45" height="45" />
         <br>Typescript
       </td>
+
       <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
         <br>React
@@ -44,6 +45,10 @@ I’m a results-driven software engineer with over 8 years of experience craftin
       </td>
     </tr>
     <tr>
+    <td align="center" width="90">
+         <img align="left alt="NestJS" width="45px" src="https://static-00.iconduck.com/assets.00/nestjs-icon-96x96-vgqmoc84.png"/>
+        <br>NestJS
+      </td>
         <td align="center" width="90">
           <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
             <br>Rust
@@ -64,6 +69,7 @@ I’m a results-driven software engineer with over 8 years of experience craftin
             <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="php" />
             <br>Go
         </td>
+
         <td align="center" width="90">
           <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
           <br>Django
@@ -76,6 +82,10 @@ I’m a results-driven software engineer with over 8 years of experience craftin
           <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
           <br>WordPress
         </td>
+ <td align="center" width="90">
+        <img align="left alt="GraphQL" width="42px" src="https://static-00.iconduck.com/assets.00/graphql-icon-455x512-ta4hbnli.png"/>
+        <br>GraphQL
+      </td>
     </tr>
 </table>
 <h2></h2>
