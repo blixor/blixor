@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2b183a18-9df3-41e4-930c-75b241bbfa6b)# 👋 Welcome to my github page! <br />
+## 👋 Welcome to my github page! <br />
 
 I’m a results-driven software engineer with over 8 years of experience crafting innovative solutions. <br /> My expertise lies in designing scalable and secure systems for clients worldwide. <br /> While many of my projects are confidential, you can check out my open-source contributions in the public repositories.
 
