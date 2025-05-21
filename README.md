@@ -10,7 +10,7 @@ I’m a results-driven software engineer with over 8 years of experience craftin
 
 <table align="center">
   <tr>
-      <td align="center" width="90">
+      <td align="center"  width="90">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="45" height="45" />
         <br>Javascript
       </td>
