@@ -7,7 +7,6 @@ I’m a results-driven software engineer with over 8 years of experience craftin
 
 ## ⚡ My Skills
 <br />
-
 <table align="center">
   <tr>
       <td align="center"  width="90">
